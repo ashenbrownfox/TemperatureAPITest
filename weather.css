@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto';
+  }
+table{
+    border: none;
+}
+
+#cityname{
+}
+  .table-data{
+    display: table;
+    width: 250px;
+    table-layout: fixed;
+  }
+
+  .status p {
+    font-size: 1.8em;
+    text-transform: capitalize;
+  }
+  
+  header {
+    margin-bottom: 30px;
+  }
+  
+  .temp{
+    cursor:pointer;
+    color:#006dcc;
+  }
+  .temp:hover{
+    color:#005096;
+  }
+  h1 {
+    font-size: 5em;
+  }
+  thead{
+      text-align: right;
+  }
+
+  .all-icon {
+    margin-bottom: 20px;
+  }
